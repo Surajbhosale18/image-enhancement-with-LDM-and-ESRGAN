@@ -25,6 +25,11 @@ The proposed approach extracts complementary features from both models and blend
 </p>
 
 ---
+## Dataset
+
+This project uses the **MetFaces Dataset**, a collection of high-quality face images extracted from works of art. The dataset contains **1,336** aligned face images and is suitable for image super-resolution and image enhancement tasks. :contentReference[oaicite:1]{index=1}
+
+🔗 **Download Dataset:** https://www.kaggle.com/datasets/thedevastator/metfaces-image-dataset
 
 ## Pipeline
 
