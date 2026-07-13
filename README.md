@@ -119,7 +119,7 @@ image-enhancement-with-LDM-and-ESRGAN
 
 You can read the complete research paper here.
 
-📄 [Feature-Level Fusion of GAN and Diffusion Models for Image Enhancement](Paper/Feature-Level_Fusion.pdf)
+📄 [Feature-Level Fusion of GAN and Diffusion Models for Image Enhancement](Paper/Feature-Level Fusion of GAN and Diffusion Models for Image Enhancement.(2).pdf)
 
 ---
 
