@@ -71,7 +71,7 @@ The proposed fusion model achieves better reconstruction quality than both ESRGA
 ## Sample Output
 
 <p align="center">
-  <img src="images/result.png" width="900">
+  <img src="images/SampleOutput.png" width="900">
 </p>
 
 ---
