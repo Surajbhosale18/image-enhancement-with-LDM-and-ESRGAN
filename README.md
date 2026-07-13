@@ -21,7 +21,7 @@ The proposed approach extracts complementary features from both models and blend
 ## Project Architecture
 
 <p align="center">
-  <img src="images/architecture.png" width="900">
+  <img src="images/SystemArchitecutre.png" width="900">
 </p>
 
 ---
